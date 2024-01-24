@@ -17,8 +17,8 @@ etl-twitter-airflow-aws-s3/
 │   ├── twitter_etl_dag.py
 │
 ├── scripts/
-│   ├── extract.py
-│   ├── transform.py
+│   ├── Tweet_Airflow_ETL.py
+│   ├── Tweeter_Dag.py
 │   ├── load.py
 │
 ├── config/
