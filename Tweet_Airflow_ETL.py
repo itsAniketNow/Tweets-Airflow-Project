@@ -40,4 +40,4 @@ for tweet in tweets:
     
     
     df = pd.DataFrame(tweet_list)
-    df.to_csv('refined_tweets.csv')
+    df.to_csv('tweets.csv')
