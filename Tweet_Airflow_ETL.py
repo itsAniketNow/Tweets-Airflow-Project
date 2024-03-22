@@ -5,10 +5,10 @@ from datetime import datetime
 import s3fs
 
 
-access_key = "RVXrXA9QjC9UEhOB2wbO0bdhJ"
-access_secret = "UNz5drjBdwFunFMI7PDNMjgK91ubVO1o5rc6wBaRFBeF1I3oSb"
-consumer_key = "1749696713164554240-omYJVdS9SxDicXxxheG0gdTZ8RhAP0"
-consumer_secret = "IMCozChroLas4NKogIQARjDaTzn0AP4N3DcGaf8R0889T"
+access_key = # Write your access key here
+access_secret = # Write your access secret key here
+consumer_key = # Write your consumer key here
+consumer_secret = # write your consumer secrete key here
 
 # Tweeter Authentication
 auth = tweepy.OAuthHandler(access_key, access_secret)
