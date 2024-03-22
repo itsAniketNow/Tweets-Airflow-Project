@@ -3,7 +3,7 @@ This project enables the seamless extraction of Twitter data using the Twitter A
 
 
 ## Architecture
-![Alt Text](url)
+![Alt Text](Data-Pipeline.png)
 
 
 ## Key Components:
