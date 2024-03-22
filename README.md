@@ -31,7 +31,7 @@ git clone [https://github.com/itsAniketNow/Twitter-Data-ETL]
 ```
 pip install -r requirements.txt
 ```
-3. Create a config.py file in the root directory and add the following variables:
+3. Create a airflow_etl_key.pem file in the root directory and add the following variables:
 ```
 AccessKey = "[Your Twitter API key]"
 AccessSecret = "[Your Twitter API secret key]"
