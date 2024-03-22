@@ -45,7 +45,7 @@ airflow standalone
 ```
 2. Access Airflow through your browser using the default port (8080).
 
-3. In the Airflow UI, enable the twitter_data_pipeline DAG.
+3. In the Airflow UI, enable the twitter_DAG.py DAG.
 
 4. The pipeline will run on the schedule defined in the DAG and load the data into the specified S3 bucket in CSV format.
 
