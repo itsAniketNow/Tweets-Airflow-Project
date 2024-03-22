@@ -48,3 +48,11 @@ airflow standalone
 3. In the Airflow UI, enable the twitter_data_pipeline DAG.
 
 4. The pipeline will run on the schedule defined in the DAG and load the data into the specified S3 bucket in CSV format.
+
+## Additional Notes
+- Customize the DAG schedule as per your requirements in the twitter_data_pipeline.py file.
+- You can modify the ETL process to handle different data formats or storage destinations.
+- Ensure proper error handling and logging for smooth pipeline execution.
+
+## Author
+Thank you for exploring this Twitter Data ETL project. For any inquiries or feedback, please contact Aniket Surwade.
